@@ -1,1 +1,2 @@
-msg= welcome to greet API
+msg: "Hello, this is a test message! from greet"
+
